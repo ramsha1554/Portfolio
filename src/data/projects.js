@@ -30,6 +30,22 @@ export const projects = [
         ],
     },
     {
+        title: "Fintra – Personal Finance Tracker Web App",
+        description:
+            "A full-stack personal finance tracking platform that helps users monitor income, expenses, and financial goals. Solves the common problem of scattered manual tracking by providing a unified dashboard for budgeting and spending insights.",
+        techStack: ["React", "Node.js", "Express.js", "MongoDB", "JWT Authentication"],
+        link: "https://github.com/ramsha1554/Fintra-finance-tracker",
+        demo: "",
+        features: [
+            "User onboarding and secure login with JWT",
+            "Add, edit, and delete income and expense entries",
+            "Categorized transaction tracking (e.g., food, bills, salary)",
+            "Dashboard overview with total balance and simple charts",
+            "REST API with clean backend structure",
+            "Responsive UI built with React for seamless user experience",
+        ],
+    },
+    {
         title: "SaaS Landing Page",
         description:
             "A high-conversion landing page for a SaaS product, focusing on performance, accessibility, and modern aesthetics.",
