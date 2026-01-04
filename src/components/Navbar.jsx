@@ -33,7 +33,7 @@ const Navbar = () => {
                     </li>
                 ))}
                 <div className="flex items-center ml-4 gap-4 border-l pl-4 border-gray-700">
-                    <a href="https://github.com" target="_blank" rel="noreferrer" className="text-gray-400 hover:text-white transition-colors"><FaGithub size={20} /></a>
+                    <a href="https://github.com/ramsha1554/" target="_blank" rel="noreferrer" className="text-gray-400 hover:text-white transition-colors"><FaGithub size={20} /></a>
                     <a href="https://www.linkedin.com/in/syeda-ramsha-anjum1554/" target="_blank" rel="noreferrer" className="text-gray-400 hover:text-white transition-colors"><FaLinkedin size={20} /></a>
                 </div>
             </ul>
